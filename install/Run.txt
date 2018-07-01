@@ -1,0 +1,4 @@
+roscore
+# /dev/ttyACM0 is the Arduino Car Controller port
+rosrun rosserial_python serial_node.py /dev/ttyACM0
+roslaunch car_teleop teleop.launch
