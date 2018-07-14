@@ -1,8 +1,4 @@
 # ===================================================
-In the associated video and article on JetsonHacks a 
-Chinese version of an Arduiono Nano was used. Instead
-of a FTDI chip, a CH340 serial to USB chip is used.
-
 On the Jetson TK1, a kernel module is needed to interface
 with the CH340. In the kernel config file, the entry is listed
 as:
