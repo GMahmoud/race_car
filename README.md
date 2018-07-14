@@ -1,6 +1,6 @@
 # Autonomous Racecar (AR) <br/>Personal Project
 
-![Side view](/Photo/side_view.png "Side View")
+![Side view](/Photo/side_view.jpg "Side View")
 <br/>
 
 
