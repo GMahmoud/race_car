@@ -1,2 +1,2 @@
-# jetsoncar_teleop
-Teleoperation node for JetsonCar
+# car_teleop
+Teleoperation ros package for RaceCar
